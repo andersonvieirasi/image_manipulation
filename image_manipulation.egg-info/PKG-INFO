@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: image_manipulation
+Version: 0.0.1
+Summary: Desafio da DIO 
+Home-page: https://github.com/andersonvieirasi/dio-me-python-basico
+Author: Anderson Vieira
+Author-email: andersonvieira.si@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Image Manipulation
+
+Um pacote Python para manipulação básica de imagens usando a biblioteca Pillow. Este pacote fornece funções para redimensionar imagens e aplicar filtros de desfoque.
+
+## Funcionalidades
+
+- Redimensionar imagens
+- Aplicar filtro de desfoque
+
+## Autor
+    Anderson Vieira
+
+## Email
+    andersonvieira.si@gmail.com
+
+## Instalação
+
+Você pode instalar o pacote localmente usando pip. Navegue até o diretório que contém o `setup.py` e execute o seguinte comando:
+
+```bash
+pip install .
